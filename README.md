@@ -25,4 +25,5 @@ The app allows colleges to send important updates, notices, and event informatio
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Gayathri150694/CollegeNotification.git
+  git clone https://github.com/Gayathri150694/CodeAlpha_CollegeNotification.git
+
