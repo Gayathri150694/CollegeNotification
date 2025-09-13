@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+.kotlinc/
+.kotlin/
+
+# Log files
+*.log
+
+# Android/Other
+local.properties
+*.apk
+*.aar
+*.dex
+*.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+# Default ignored files
+/shelf/
+/workspace.xml
