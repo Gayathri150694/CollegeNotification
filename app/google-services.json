@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956614731734",
+    "project_id": "college-notifications-4d80e",
+    "storage_bucket": "college-notifications-4d80e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956614731734:android:44e92fee59a58be42ce677",
+        "android_client_info": {
+          "package_name": "com.andriodmate.collegenotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhp58kUNSa2UTFJPlgX6gvz5pSZ1BNRhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956614731734:android:173e70b50f2f685e2ce677",
+        "android_client_info": {
+          "package_name": "com.andriodmate.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhp58kUNSa2UTFJPlgX6gvz5pSZ1BNRhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
